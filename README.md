@@ -48,7 +48,7 @@ This library could not have been possible without the contributions of <a href="
 
 - <a href="https://github.com/jonatalamantes">jonatalamantes</a> trained Dall-E with Danbooru2017 dataset with the following results 
 <p align='centered'>
-  <img src="./images/anime.png" width="420"></img>
+  <img src="./images/anime.png" width="840"></img>
 </p>
 
 - <a href="https://github.com/afiaka87">afiaka87</a> trained for 6 epochs on the same dataset as before thanks to the efficient 16k VQGAN with the following <a href="https://github.com/lucidrains/DALLE-pytorch/discussions/322>discussion">results</a>
